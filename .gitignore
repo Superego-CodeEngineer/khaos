@@ -1,0 +1,8 @@
+.DS_Store
+
+.tools/
+.idea/
+.vscode/
+*.iml
+*.so
+coverage.*
