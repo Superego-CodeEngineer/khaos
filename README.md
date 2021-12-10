@@ -1,2 +1,3 @@
-# khaos
-Khaos is a Highly Abstracted Out-of-the-box Application Component. This repo is Back-End Implementation.
+# Khaos-Server
+
+Khaos is a highly abstracted out-of-the-box application component. This repo is back-end implementation.
